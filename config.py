@@ -1,0 +1,6 @@
+yyzz = 'data/sourceFile/yyzz.txt'
+certificate = 'data/'
+pubkey_path = 'data/sourceFile/pubkey.pem'
+privkey_path = 'data/sourceFile/privkey.pem'
+CApubkey_path = 'data/CApubkey.pem'
+CAprivkey_path = 'data/CAprivkey.pem'
