@@ -76,17 +76,17 @@
 
 * 运行 `run.py` ，按下述步骤进行交互：
 
-  ![5](picture\5.png)
+  ![5](picture/5.png)
 
 ### 4. 加密
 
 * 使用用户公钥对 `data/sourceFile/yyzz.txt` 文件进行加密，原文件内容如下：
 
-  ![6](picture\6.png)
+  ![6](picture/6.png)
 
 * 运行 `run.py` ，按下述步骤进行交互：
 
-  ![7](picture\7.png)
+  ![7](picture/7.png)
 
 * 加密后的 `yyzz.txt` 文件如下所示：
 
