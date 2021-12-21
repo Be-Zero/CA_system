@@ -16,5 +16,3 @@ def save_file(default_path, text):
 
 def Delete(file_path):
     os.remove(file_path)
-    open('../Data/CAprivate.pem', 'w').close()
-    open('../Data/CApublic.pem', 'w').close()

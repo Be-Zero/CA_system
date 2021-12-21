@@ -33,6 +33,8 @@ def eliminate():
     name = input()
     if os.path.exists(config.certificate + name + '.pem'):
         function.Delete(config.certificate + name + '.pem')
+        function.Delete(config.CApubkey_path)
+        function.Delete(config.CAprivkey_path)
         print('吊销证书成功！')
     else:
         print('吊销证书失败！')
